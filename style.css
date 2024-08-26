@@ -1,0 +1,179 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    background-color: #F3F5FC;
+    font-family: "Inter", sans-serif;
+    
+}
+
+.logoalura {
+    display: flex;
+    margin: 3% 3% 0% 1%;
+
+    
+    
+    
+    
+}
+
+
+
+.alerta_foto {
+    width: 16px;
+    height: 16px;
+}
+.alerta {
+    display: flex;
+    width: 252;
+    height: 18;
+}
+
+.botoes_alerta {
+    display: flex;
+    gap: 16px ;
+    flex-direction: column;
+}
+#input-texto {
+    text-decoration: none;
+    color: #0A3871;
+    box-shadow: none;
+    border: none;
+    outline: 0;
+    font-size: 32px;
+    width: 680px;
+    height: 48px;
+    text-transform: lowercase;
+
+    
+}
+
+
+
+#output {
+    display: flex;
+    flex-direction: column;
+    border: 3px solid #ffff;
+    border-radius: 32px;
+    margin: 0% 0% 00% 0% ;
+    
+    
+    
+    background-color: #FFFF;
+    padding: 130px 20px 130px 20px;
+    
+}
+
+#output h2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28,8px;
+    color: #343A40;
+    background-color: transparent;
+
+}
+
+#output span{
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    align-items: center;
+    color: #495057;
+    background-color: transparent;
+}
+
+#output img{
+    width: 336px;
+    height: 304px;
+    top: 283px;
+    left: 1032px;
+    background-color: transparent;
+}
+
+.divisor-input {
+    display: flex;
+    padding: 10% 80px 0% 10% ;
+    flex-direction: column;
+    gap: 30%;
+}
+
+.btn_cripto {
+    border: 2px solid #0A3871;
+    border-radius: 24px;
+    text-decoration: none;
+    background-color:#0A3871;
+    padding: 24px;
+    width: 280px;
+    color: #FFFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    align-items: center;
+    cursor: pointer;
+    
+
+}
+
+.btn_descripto {
+
+    border: 1px solid #0A3871;
+    border-radius: 24px;
+    text-decoration: none;
+    background-color:#D8DFE8;
+    padding: 24px;
+    width: 280px;
+    color: #0A3871;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    align-items: center;
+    cursor: pointer;
+   
+
+
+}
+.btn {
+    display: flex;
+    flex-direction: row;
+   
+    gap: 24px;
+}
+
+.btn-copiar{
+
+   
+    border: 1px solid #0A3871;
+    border-radius: 24px;
+    text-decoration: none;
+    background-color:#D8DFE8;
+    padding: 24px;
+    width: 280px;
+    color: #0A3871;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    align-items: center;
+    cursor: pointer;
+    margin: 32% 0% 0% 27%;
+    
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
